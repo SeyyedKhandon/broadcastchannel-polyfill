@@ -82,4 +82,4 @@
     };
 
     global.BroadcastChannel = global.BroadcastChannel || BroadcastChannel;
-})(self);
+})(window);
